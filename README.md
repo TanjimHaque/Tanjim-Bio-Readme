@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Tanjim Haque] — Aspiring Mechanical Engineer
+# 👋 Hi, I'm Tanjim Haque — Aspiring Mechanical Engineer
 
 I'm an aspiring Mechanical Engineer passionate about mechanical design, robotics, and innovation. With experience in CAD modeling for FTC robotics, hands-on fabrication, and a growing interest in aeronautics and F1 engineering, I aim to bridge the gap between creative design and practical engineering solutions. I’m also exploring coding, simulation, and rapid prototyping to complement my mechanical skills.
 
