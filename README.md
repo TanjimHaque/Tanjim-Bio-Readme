@@ -21,8 +21,8 @@ I'm an aspiring Mechanical Engineer passionate about mechanical design, robotics
 ---
 
 ## 🎞 Fun Engineering GIFs
-![Engineering GIF 1](https://tenor.com/view/engineer-fixed-tape-gif-14723651)
-![Engineering GIF 2](https://tenor.com/view/engineering-gif-21699959)
+![Engineering GIF 1](https://tenor.com/bDdjv.gif)
+![Engineering GIF 2](https://tenor.com/9Wsp.gif)
 
 ---
 
