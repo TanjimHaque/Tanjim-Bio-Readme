@@ -23,6 +23,7 @@ I'm an aspiring Mechanical Engineer passionate about mechanical design, robotics
 ## 🎞 Fun Engineering GIFs
 
 ![engineer-fixed](https://github.com/user-attachments/assets/93585b7b-0703-4adf-9e29-824c6599616c)
+![logic-engineer](https://github.com/user-attachments/assets/8fb2c0cd-40ab-4483-bd35-13f56504c5dd)
 
 ---
 
