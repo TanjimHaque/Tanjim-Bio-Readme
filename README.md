@@ -3,7 +3,9 @@
 I'm an aspiring Mechanical Engineer passionate about mechanical design, robotics, and innovation. With experience in CAD modeling for FTC robotics, hands-on fabrication, and a growing interest in aeronautics and F1 engineering, I aim to bridge the gap between creative design and practical engineering solutions. I’m also exploring coding, simulation, and rapid prototyping to complement my mechanical skills.
 
 
-<img width="246" height="257" alt="logo tanjim" src="https://github.com/user-attachments/assets/eb06eedc-bcf7-487f-b5e2-4f1afa08be7a" />
+<p align="center">
+  <img width="246" height="257" alt="logo tanjim" src="https://github.com/user-attachments/assets/eb06eedc-bcf7-487f-b5e2-4f1afa08be7a" />
+</p>
 
 ---
 
